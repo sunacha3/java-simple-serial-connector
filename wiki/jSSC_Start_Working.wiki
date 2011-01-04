@@ -1,6 +1,6 @@
 =jSSC - start working with library=
 
-Let's try start working with jSSC. I'll show you how do it *NetBeans IDE*.
+Let's try start working with jSSC. I'll show you how do it in *NetBeans IDE*.
 
 ==1. Downloading jSSC==
 Download last version of jSSC. [http://code.google.com/p/java-simple-serial-connector/downloads/list]
