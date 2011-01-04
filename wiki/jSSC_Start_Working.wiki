@@ -1,6 +1,6 @@
 =jSSC - start working with library=
 
-Let's try start working with jSSC. I'll show you how do it in *NetBeans IDE*.
+Let's try start working with jSSC. I'll show you how do it in *!NetBeans IDE*.
 
 ==1. Downloading jSSC==
 Download last version of jSSC. [http://code.google.com/p/java-simple-serial-connector/downloads/list]
@@ -12,8 +12,8 @@ http://scream3r.org/google_img/1_Unpack.png
 
 *Bins* folder contains binary files of jSSC. *Javadoc* folder contains documentation on English and Russian languages. And *src* folder contains jSSC source files.
 
-==3. Adding jSSC in NetBeans==
-Run *NetBeans IDE*. Go to *Library Manages*(*Tools->Libraries*):
+==3. Adding jSSC in !NetBeans==
+Run *!NetBeans IDE*. Go to *Library Manages*(*Tools->Libraries*):
 
 http://scream3r.org/google_img/2_NetBeansAddLib.png
 
@@ -35,7 +35,7 @@ Now, let's create a simple project. In project properties we must add jSSC-0.7.1
 
 http://scream3r.org/google_img/6_NetBeansAddLib.png
 
-After that, we must put a *libjssc.dll* file in project folder. We can do it in *NetBeans* or in file manager:
+After that, we must put a *libjssc.dll* file in project folder. We can do it in *!NetBeans* or in file manager:
 
 http://scream3r.org/google_img/7_NetBeansAddLib.png
 
