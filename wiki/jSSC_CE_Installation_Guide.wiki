@@ -26,11 +26,11 @@ Now we need share *C:\!StorageCard\* folder for Device Emulator:
 
 http://scream3r.org/google_img/WinCE/2.png
 
-Now we can launch *CrEme* installer from the *Storage Card* in *My Device*:
+Now we can launch *!CrEme* installer from the *Storage Card* in *My Device*:
 
 http://scream3r.org/google_img/WinCE/3.png
 
-Excellent JVM installed, now we need to install *jSSC-CE*. File *jSSC.dll* put into the directory *\Windows\CrEme\bin* and the file *jSSC-CE.jar* put into the directory *\Windows\CrEme\lib*
+Excellent JVM installed, now we need to install *jSSC-CE*. File *jSSC.dll* put into the directory *\Windows\!CrEme\bin* and the file *jSSC-CE.jar* put into the directory *\Windows\!CrEme\lib*
 
 http://scream3r.org/google_img/WinCE/4.png
 
@@ -40,7 +40,7 @@ Ok, now we can run the demo application from the archive with the library. Put t
 
 http://scream3r.org/google_img/WinCE/5.png
 
-Starting application by the *Terminal.lnk* is required because the we need to pass *-noblock* key to JVM, because when JVM call *native methods* all other threads are stopped, it is a feature of CrEme JVM.
+Starting application by the *Terminal.lnk* is required because the we need to pass *-noblock* key to JVM, because when JVM call *native methods* all other threads are stopped, it is a feature of *!CrEme* JVM.
 
 Ok, now we can verify how it work. Join 2 COM-Ports with null-modem cable and play with terminals:
 
