@@ -20,9 +20,9 @@ Ok, now we need to install JVM, I have chosen *CrE-ME 4.12* by the *NSIcom* comp
 
 *Note: To run the installer you must have installed !ActiveSync.*
 
-Run the installer. Then go into the folder *!C:\Program Files\Microsoft ActiveSync\NSIcom\* and copy the file *CrE-ME412_X86_CE50_HPC.CAB* to the folder *C:\StorageCard\*
+Run the installer. Then go into the folder *C:\Program Files\Microsoft !ActiveSync\NSIcom\* and copy the file *CrE-ME412_X86_CE50_HPC.CAB* to the folder *C:\!StorageCard\*
 
-Now we need share *C:\StorageCard\* folder for Device Emulator:
+Now we need share *C:\!StorageCard\* folder for Device Emulator:
 
 http://scream3r.org/google_img/WinCE/2.png
 
