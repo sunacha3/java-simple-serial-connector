@@ -1,6 +1,6 @@
 =jSSC-CE - Installation Guide for WinCE=
 
-*Attention! This version of the library was designed to CrEme-4.12 JVM, if you plan to use a different JVM you need to make changes in the source code of library in accordance with the specification of your JVM.*
+*Attention! This version of the library was designed for !CrEme-4.12 JVM, if you plan to use a different JVM you need to make changes in the source code of library in accordance with the specification of your JVM.*
 
 ==1. WinCE 5.0 Device Emulator==
 Because I have no real device running WinCE for work I will use *Microsoft Windows CE 5.0 Device Emulator*, you can download it for free:
