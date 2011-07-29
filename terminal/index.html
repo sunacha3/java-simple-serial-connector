@@ -1,0 +1,35 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+	<head>
+		<style type="text/css">
+		<!--
+			body {
+			margin-left: 10px;
+			margin-top: 10px;
+			margin-right: 10px;
+			margin-bottom: 10px;
+		}
+		-->
+		</style>
+	</head>
+    <body>
+        <script src="http://java.com/js/deployJava.js"></script>
+        <script>
+            var attributes = {
+                code:       "applet.Main",
+                archive:    "jSSC-Terminal.jar, lib/jssc.jar",
+                width:      700,
+                height:     500
+            };
+            var parameters = {separate_jvm:"true", draggable:"true", jnlp_href:"launch.jnlp"}; <!-- Applet Parameters -->
+            var version = "1.5"; <!-- Required Java Version -->
+            deployJava.runApplet(attributes, parameters, version);
+        </script>
+        <!-- Or use the following applet element to launch the applet using jnlp_href -->
+        <!--
+        <applet width="700" height="500">
+            <param name="jnlp_href" value="launch.jnlp"/>
+        </applet>
+        -->
+    </body>
+</html>
