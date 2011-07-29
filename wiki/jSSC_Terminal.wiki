@@ -1,1 +1,1 @@
-<wiki:gadget url="http://java-simple-serial-connector.googlecode.com/svn/trunk/demo.xml"  width="720" height="520"/>
+<wiki:gadget url="http://java-simple-serial-connector.googlecode.com/svn/trunk/terminal/demo.xml"  width="720" height="520"/>
