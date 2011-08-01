@@ -1,3 +1,21 @@
 This is *serial port terminal applet* based on *jSSC* library. This terminal demonstrate some functions of *java serial port library - jSSC*.
 
 <wiki:gadget url="http://java-simple-serial-connector.googlecode.com/svn/trunk/terminal/demo.xml"  width="720" height="520"/>
+
+This applet can run like an a stand alone application. Download bins and sources here: [http://code.google.com/p/java-simple-serial-connector/downloads/list]
+
+You can easy integrate this applet into you web-page. Just insert the following code:
+{{{
+<script src="http://java.com/js/deployJava.js"></script>
+<script>
+    var attributes = {
+                code:       "applet.Main",
+                archive:    "jSSC-Terminal.jar, lib/jssc.jar",
+                width:      700,
+                height:     500
+            };
+            var parameters = {separate_jvm:"true", draggable:"true", jnlp_href:"http://java-simple-serial-connector.googlecode.com/svn/trunk/terminal/launch.jnlp"}; <!-- Applet Parameters -->
+            var version = "1.5"; <!-- Required Java Version -->
+            deployJava.runApplet(attributes, parameters, version);
+        </script>
+}}}
