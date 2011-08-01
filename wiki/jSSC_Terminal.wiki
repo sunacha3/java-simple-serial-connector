@@ -24,6 +24,8 @@ Or use this code:
 {{{
 <applet width="700" height="500">
     <param name="jnlp_href" value="http://java-simple-serial-connector.googlecode.com/svn/trunk/terminal/launch.jnlp"/>
+    <param name="separate_jvm" value="true"/>
+    <param name="draggable" value="true"/>
 </applet>
 }}}
 
