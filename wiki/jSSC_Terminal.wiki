@@ -4,7 +4,7 @@ This is *serial port terminal applet* based on *jSSC* library. This terminal dem
 
 This applet can run like an a stand alone application. Download bins and sources here: [http://code.google.com/p/java-simple-serial-connector/downloads/list]
 
-You can easy integrate this applet into you web-page. Just insert the following code:
+You can easy integrate this applet into you web-page. Just insert the following code (this example is recommended):
 {{{
 <script src="http://java.com/js/deployJava.js"></script>
 <script>
@@ -18,4 +18,11 @@ You can easy integrate this applet into you web-page. Just insert the following 
     var version = "1.5"; <!-- Required Java Version -->
     deployJava.runApplet(attributes, parameters, version);
 </script>
+}}}
+
+Or use this code:
+{{{
+<applet width="700" height="500">
+    <param name="jnlp_href" value="http://java-simple-serial-connector.googlecode.com/svn/trunk/terminal/launch.jnlp"/>
+</applet>
 }}}
