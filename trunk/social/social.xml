@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <Module>
-  <ModulePrefs title="jSSC-Social"/> 
+  <ModulePrefs title="jSSC-Social">
+    <Require feature="dynamic-height"/>
+  </ModulePrefs>
   <Content type="html"><![CDATA[
   <script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
   <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
