@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <Module>
   <ModulePrefs title="jSSC-Social"/> 
-  <Content type="html">
-  <![CDATA[
+  <Content type="html"><![CDATA[
+  <script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+  <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
   <table border="0">
         <tr>
            <td>
-            <script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
             <fb:like></fb:like>
           </td>
           <td align="center" valign="middle">
@@ -17,7 +17,5 @@
           </td>
         </tr>
       </table>
-      <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
-  ]]>
-  </Content>
+  ]]></Content>
 </Module>
