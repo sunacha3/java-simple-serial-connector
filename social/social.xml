@@ -5,7 +5,7 @@
   </ModulePrefs>
   <Content type="html"><![CDATA[
   <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
-  <table border="0">
+  <table height="35" border="1">
         <tr>
           <td align="center" valign="middle">
             <g:plusone href="http://code.google.com/p/java-simple-serial-connector/"></g:plusone>
@@ -17,6 +17,6 @@
             <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fcode.google.com%2Fp%2Fjava-simple-serial-connector%2F&amp;send=false&amp;layout=standard&amp;width=399&amp;show_faces=false&amp;action=recommend&amp;colorscheme=light&amp;font&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:600px; height:35px;" allowTransparency="true"></iframe>
           </td>
         </tr>
-      </table>1
+      </table>2
   ]]></Content>
 </Module>
