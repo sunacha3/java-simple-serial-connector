@@ -14,9 +14,9 @@
         <a href="https://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="scream3r" data-url="http://code.google.com/p/java-simple-serial-connector/">Tweet</a><script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
           </td>
           <td valign="middle">
-            <iframe align="middle" src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fcode.google.com%2Fp%2Fjava-simple-serial-connector%2F&amp;send=false&amp;layout=standard&amp;width=600&amp;show_faces=false&amp;action=recommend&amp;colorscheme=light&amp;font&amp;height=30" scrolling="no" frameborder="0" style="border:solid 1px; overflow:hidden; width:600px; height:30px;" allowTransparency="true"></iframe>
+            <iframe align="middle" src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fcode.google.com%2Fp%2Fjava-simple-serial-connector%2F&amp;send=false&amp;layout=standard&amp;width=600&amp;show_faces=false&amp;action=recommend&amp;colorscheme=light&amp;font&amp;height=30" scrolling="no" frameborder="0" style="text-align:center; border:solid 1px; overflow:hidden; width:600px; height:30px;" allowTransparency="true"></iframe>
           </td>
         </tr>
-      </table>3
+      </table>4
   ]]></Content>
 </Module>
