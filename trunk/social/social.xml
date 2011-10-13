@@ -4,7 +4,6 @@
     <Require feature="dynamic-height"/>
   </ModulePrefs>
   <Content type="html"><![CDATA[
-  <script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
   <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
   <table border="0">
         <tr>
@@ -13,9 +12,6 @@
                       </td>
                   <td align="center" valign="middle">
         <a href="https://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="scream3r" data-url="http://code.google.com/p/java-simple-serial-connector/">Tweet</a><script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
-          </td>
-          <td>
-            <fb:like onclick="gadgets.window.adjustHeight()"></fb:like>
           </td>
           <td>
             <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fcode.google.com%2Fp%2Fjava-simple-serial-connector%2F&amp;send=false&amp;layout=standard&amp;width=399&amp;show_faces=false&amp;action=recommend&amp;colorscheme=light&amp;font&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:500px; height:35px;" allowTransparency="true"></iframe>
