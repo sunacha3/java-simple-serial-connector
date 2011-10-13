@@ -15,7 +15,7 @@
         <a href="https://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="scream3r" data-url="http://code.google.com/p/java-simple-serial-connector/">Tweet</a><script type="text/javascript" src="//platform.twitter.com/widgets.js"></script>
           </td>
           <td>
-            <fb:like onclick="gadgets.window.adjustHeight()"></fb:like>
+            <fb:like onclick="gadgets.window.adjustHeight()"></fb:like>1
           </td>
         </tr>
       </table>
