@@ -10,7 +10,7 @@ You can easy integrate this applet into you web-page. Just insert the following 
 <script>
     var attributes = {
         code:       "applet.Main",
-        archive:    "jSSC-Terminal.jar, lib/jssc.jar",
+        archive:    "jSSC-Terminal.jar, lib/jssc.jar, lib/swing-layout-1.0.4.jar",
         width:      700,
         height:     500
     };
