@@ -29,16 +29,16 @@
 			</form>
 		</td>
 		<td>
-      <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3MTGWN7KKZL54"><img src="http://java-simple-serial-connector.googlecode.com/svn/trunk/additional_content/donate_buttons/button_1.png" border="0" alt="Donate 1 USD via PayPal"></a>
+      <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3MTGWN7KKZL54" target="_blank"><img src="http://java-simple-serial-connector.googlecode.com/svn/trunk/additional_content/donate_buttons/button_1.png" border="0" alt="Donate 1 USD via PayPal"></a>
 		 </td>
 		<td>
-      <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BL5CPVNABWSJN"><img src="http://java-simple-serial-connector.googlecode.com/svn/trunk/additional_content/donate_buttons/button_5.png" border="0" alt="Donate 5 USD via PayPal"></a>
+      <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BL5CPVNABWSJN" target="_blank"><img src="http://java-simple-serial-connector.googlecode.com/svn/trunk/additional_content/donate_buttons/button_5.png" border="0" alt="Donate 5 USD via PayPal"></a>
 		 </td>
 		<td>
-      <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M7JQMM3S9UDV2"><img src="http://java-simple-serial-connector.googlecode.com/svn/trunk/additional_content/donate_buttons/button_10.png" border="0" alt="Donate 10 USD via PayPal"></a>
+      <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=M7JQMM3S9UDV2" target="_blank"><img src="http://java-simple-serial-connector.googlecode.com/svn/trunk/additional_content/donate_buttons/button_10.png" border="0" alt="Donate 10 USD via PayPal"></a>
 		 </td>
 		<td>
-      <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XRH2RTBCTYFFE"><img src="http://java-simple-serial-connector.googlecode.com/svn/trunk/additional_content/donate_buttons/button_15.png" border="0" alt="Donate 15 USD via PayPal"></a>
+      <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=XRH2RTBCTYFFE" target="_blank"><img src="http://java-simple-serial-connector.googlecode.com/svn/trunk/additional_content/donate_buttons/button_15.png" border="0" alt="Donate 15 USD via PayPal"></a>
 		 </td>
 	</tr>
 </table>
