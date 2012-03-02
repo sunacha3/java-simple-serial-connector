@@ -29,7 +29,7 @@
 			</form>
 		</td>
 		<td>
-      <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3MTGWN7KKZL54" target="_blank"><img src="http://java-simple-serial-connector.googlecode.com/svn/trunk/additional_content/donate_buttons/button_1.png" border="0" alt="Donate 1 USD via PayPal"></a>
+      <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3MTGWN7KKZL54" target="_blank" title="Donate 1 USD via PayPal"><img src="http://java-simple-serial-connector.googlecode.com/svn/trunk/additional_content/donate_buttons/button_1.png" border="0" alt="Donate 1 USD via PayPal"></a>
 		 </td>
 		<td>
       <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BL5CPVNABWSJN" target="_blank"><img src="http://java-simple-serial-connector.googlecode.com/svn/trunk/additional_content/donate_buttons/button_5.png" border="0" alt="Donate 5 USD via PayPal"></a>
