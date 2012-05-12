@@ -8,7 +8,7 @@ Download last version of jSSC. [http://code.google.com/p/java-simple-serial-conn
 ==2. Unpacking==
 Unpack downloaded file:
 
-http://scream3r.org/google_img/1_Unpack.png
+http://java-simple-serial-connector.googlecode.com/svn/trunk/additional_content/manuals/start_working/1_Unpack.png
 
 *Bins* folder contains binary files of jSSC. *Javadoc* folder contains documentation on English and Russian languages. And *src* folder contains jSSC source files.
 
