@@ -15,29 +15,29 @@ http://java-simple-serial-connector.googlecode.com/svn/trunk/additional_content/
 ==3. Adding jSSC in !NetBeans==
 Run *!NetBeans IDE*. Go to *Library Manages*(*Tools->Libraries*):
 
-http://scream3r.org/google_img/2_NetBeansAddLib.png
+http://java-simple-serial-connector.googlecode.com/svn/trunk/additional_content/manuals/start_working/2_NetBeansAddLib.png
 
 Add new library:
 
-http://scream3r.org/google_img/3_NetBeansAddLib.png
+http://java-simple-serial-connector.googlecode.com/svn/trunk/additional_content/manuals/start_working/3_NetBeansAddLib.png
 
 On *Classpath* tab press *Add JAR/Folder…* button and select *jssc.jar* file:
 
-http://scream3r.org/google_img/4_NetBeansAddLib.png
+http://java-simple-serial-connector.googlecode.com/svn/trunk/additional_content/manuals/start_working/4_NetBeansAddLib.png
 
 Then, on *Javadoc* tab select your javadoc folder (*en* for English and *ru* for Russian documentation):
 
-http://scream3r.org/google_img/5_NetBeansAddLib.png
+http://java-simple-serial-connector.googlecode.com/svn/trunk/additional_content/manuals/start_working/5_NetBeansAddLib.png
 
 ==4. Creating project==
 
 Now, let's create a simple project. In project properties we must add jSSC-0.7.1 library:
 
-http://scream3r.org/google_img/6_NetBeansAddLib.png
+http://java-simple-serial-connector.googlecode.com/svn/trunk/additional_content/manuals/start_working/6_NetBeansAddLib.png
 
 After that, we must put a *libjssc.dll* file in project folder. We can do it in *!NetBeans* or in file manager:
 
-http://scream3r.org/google_img/7_NetBeansAddLib.png
+http://java-simple-serial-connector.googlecode.com/svn/trunk/additional_content/manuals/start_working/7_NetBeansAddLib.png
 
 ==5. Coding==
 Nice. Now, let's write some code to make sure everything works:
@@ -74,7 +74,7 @@ public class Main {
 
 After executing this simple program we'll receive this result:
 
-http://scream3r.org/google_img/8_NetBeansAddLib.png
+http://java-simple-serial-connector.googlecode.com/svn/trunk/additional_content/manuals/start_working/8_NetBeansAddLib.png
 
 *That's great !!!* All work fine, and now we can start working on own projects.
 
