@@ -9,7 +9,7 @@ Because I have no real device running WinCE for work I will use *Microsoft Windo
 
 Download it. Install it. Run it. Great! Here is WinCE 5.0:
 
-http://scream3r.org/google_img/WinCE/1.png
+http://java-simple-serial-connector.googlecode.com/svn/trunk/additional_content/manuals/wince_jssc_installation/1.png
 
 To start *Device Emulator*, I used the following keys: */CEImage nk.cem /video 800x600x16 /serialport1 COM1 /serialport2 COM3* For more information, see the *Microsoft Windows CE 5.0 Device Emulator* help.
 Ok, now we need to install JVM, I have chosen *CrE-ME 4.12* by the *NSIcom* company. Download *CrE-ME 4.12* here:
@@ -24,27 +24,31 @@ Run the installer. Then go into the folder *C:\Program Files\Microsoft !ActiveSy
 
 Now we need share *C:\!StorageCard\* folder for Device Emulator:
 
-http://scream3r.org/google_img/WinCE/2.png
+
+http://java-simple-serial-connector.googlecode.com/svn/trunk/additional_content/manuals/wince_jssc_installation/2.png
 
 Now we can launch *!CrEme* installer from the *Storage Card* in *My Device*:
 
-http://scream3r.org/google_img/WinCE/3.png
+http://java-simple-serial-connector.googlecode.com/svn/trunk/additional_content/manuals/wince_jssc_installation/3.png
 
 Excellent JVM installed, now we need to install *jSSC-CE*. File *jSSC.dll* put into the directory *\Windows\!CrEme\bin* and the file *jSSC-CE.jar* put into the directory *\Windows\!CrEme\lib*
 
-http://scream3r.org/google_img/WinCE/4.png
+
+http://java-simple-serial-connector.googlecode.com/svn/trunk/additional_content/manuals/wince_jssc_installation/4.png
 
 ==3. Run demo application==
 
 Ok, now we can run the demo application from the archive with the library. Put the files *jSSC-CE_Terminal.jar* and *Terminal.lnk* in *Storage Card*, now run the application by *Terminal.lnk*
 
-http://scream3r.org/google_img/WinCE/5.png
+
+http://java-simple-serial-connector.googlecode.com/svn/trunk/additional_content/manuals/wince_jssc_installation/5.png
 
 Starting application by the *Terminal.lnk* is required because the we need to pass *-noblock* key to JVM, because when JVM call *native methods* all other threads are stopped, it is a feature of *!CrEme* JVM.
 
 Ok, now we can verify how it work. Join 2 COM-Ports with null-modem cable and play with terminals:
 
-http://scream3r.org/google_img/WinCE/6.png
+
+http://java-simple-serial-connector.googlecode.com/svn/trunk/additional_content/manuals/wince_jssc_installation/6.png
 
 *Everything works fine!*
 
